@@ -3,7 +3,8 @@
     {
       "docset_name": "B_repo_paired_with_A",
       "build_source_folder": "B_repo_paired_with_A",
-      "build_output_subfolder": "B_repo_paired_with_A",
+      "build_output_subfolder": "B_repo_paired_with_A",      
+      "filemap_share_depots": ["MSDN.A_repo_enable_v3"],
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
